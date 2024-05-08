@@ -1,8 +1,11 @@
 package practice_program;
 
-import java.util.Random;
-
 public class Odd_String {
- //hello vishal
-	  
-  }
+	public static void main(String[] args) {
+		
+		
+		
+		}
+	}
+
+
