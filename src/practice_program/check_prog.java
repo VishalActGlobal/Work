@@ -4,10 +4,8 @@ import java.security.Timestamp;
 
 public class check_prog {
 	public static void main(String[] args) {
-		String num="122";
-		int a=Integer.parseInt(num);
+		int a=0;
 		a++;
 		System.out.println(a);
-
 	}
 }
